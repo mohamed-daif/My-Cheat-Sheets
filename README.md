@@ -1,6 +1,6 @@
 # Cheat Sheets
 
-Welcome to **My-Cheat-Sheets**! This repository is a personal collection of comprehensive cheat sheets covering various software engineering topics. The goal is to provide quick, easy-to-reference guides for common commands, configurations, and best practices.
+Welcome to **Complete-Cheat-Sheets**! This repository is a personal collection of comprehensive cheat sheets covering various software engineering topics. The goal is to provide quick, easy-to-reference guides for common commands, configurations, and best practices.
 
 ## Available Cheat Sheets
 
